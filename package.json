@@ -1,0 +1,14 @@
+{
+  "name": "bubble-pop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron electron/main.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^27.0.0"
+  }
+}
